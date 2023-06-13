@@ -1,10 +1,19 @@
 # ToDo-app
 To-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
-![page initiale](https://raw.githubusercontent.com/x1-il/todo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
-![add task](https://user-images.githubusercontent.com/120943267/236889340-925ea5b6-7b8e-43e3-8021-d568d7e9cdf7.png)
-Dark mode:
-![image](https://user-images.githubusercontent.com/120943267/236889977-385bdad3-1eaf-4625-b71e-22d03e6b2731.png)
+Home Page :
+![image](https://github.com/ShristiSharan/Todo_app/assets/95679078/79cabc62-3434-42c0-a472-761cf549c26a)
+
+Add Task : 
+![image](https://github.com/ShristiSharan/Todo_app/assets/95679078/da8cb954-45f1-481b-be8c-7d3195f0b607)
+
+Dark mode :
+![image](https://github.com/ShristiSharan/Todo_app/assets/95679078/e14ba69c-44cb-4f84-94c3-b8351cc43565)
+
+
+![](https://tenor.com/en-GB/view/checklist-gif-4709413)
+
+
 
 ## Description
 
@@ -29,9 +38,7 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 - HTML
 - Figma (prototyping)
 
-## How to test
-
-You can access the project here: https://todo-app-all.netlify.app/
+## Live Demo -  https://6487eba782e6ff56c536a83a--dapper-haupia-791912.netlify.app/
 
 Or run on your machine:
 
