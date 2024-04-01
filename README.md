@@ -38,7 +38,7 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 - HTML
 - Figma (prototyping)
 
-## Live Demo -  https://6487eba782e6ff56c536a83a--dapper-haupia-791912.netlify.app/
+## Live Demo -  https://dapper-haupia-791912.netlify.app/
 
 Or run on your machine:
 
